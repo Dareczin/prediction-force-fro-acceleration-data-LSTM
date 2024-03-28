@@ -13,7 +13,7 @@ Clone the repository:
 
 Bash
 git clone https://github.com/Dareczin/prediction-force-fro-acceleration-data-LSTM.git
-Używaj kodu z rozwagą.
+
 Set up the environment:
 
 The specific instructions will depend on your chosen environment management tool (e.g., conda, virtualenv).
